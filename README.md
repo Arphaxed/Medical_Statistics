@@ -17,7 +17,9 @@ Before running the application, ensure you have the following installed:
 - Dash
 - Plotly
 - Pandas
-![Hospital Management Dashboard](images/Hospital_managment_dashboard.JPG)
+Hospital_managment_dashboard.JPG
+![Hospital Management Dashboard](Hospital_managment_dashboard.JPG)
+
 You can install the required dependencies using `pip`:
 
 ```bash
